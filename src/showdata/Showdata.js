@@ -83,7 +83,8 @@ export default class Showdata extends Component{
         this.setState({
             idkey:"",
             firstname:"",
-            lastname:""
+            lastname:"",
+            email:""
         });
 	this.closeModal();
         setTimeout(()=>{this.componentDidMount()},1)

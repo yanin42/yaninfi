@@ -37,7 +37,7 @@ export default class Register extends Component{
         return(
             <div>
                 <div className="App">
-                <h2 className="my-4">Register<br/></h2>
+                <h2 className="my-4">Registers<br/></h2>
                     <hr/>
                 </div>
                 <form className="container">
